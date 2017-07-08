@@ -8,3 +8,5 @@ blah-blah-blah
 * aaa
 * bbb
 -- ccc
+
+this line will be fetched
